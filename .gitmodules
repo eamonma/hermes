@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:eamonma/hermes-server.git
+[submodule "admin"]
+	path = admin
+	url = git@github.com:eamonma/hermes-admin.git
+[submodule "client"]
+	path = client
+	url = git@github.com:eamonma/hermes-client.git
